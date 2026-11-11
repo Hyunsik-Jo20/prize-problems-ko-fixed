@@ -1,0 +1,22 @@
+{
+  "name": "PrizeProblemsKorean",
+  "version": "8.0.3",
+  "dependencies": {
+    "core": "*",
+    "builder": "*"
+  },
+  "files": [
+    "2/tutorials/0-close.md",
+    "2/tutorials/1-aimtrainer.md",
+    "2/tutorials/2-prizecounter.md",
+    "2/tutorials/custom.ts"
+  ],
+  "targetVersions": {
+    "target": "1.6.8",
+    "targetId": "minecraft"
+  },
+  "supportedTargets": [
+    "minecraft"
+  ],
+  "preferredEditor": "tsprj"
+}
